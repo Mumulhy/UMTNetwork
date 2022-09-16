@@ -1,0 +1,5 @@
+
+.gitattributes
+*.xml
+*.iml
+*.pyc
